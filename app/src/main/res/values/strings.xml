@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">yakovleva-zd3-2</string>
+    <string name="more">Подробнее</string>
+    <string name="genre">Жанры: </string>
+    <string name="name">Название: </string>
+    <string name="len">Продолжительность: </string>
+    <string name="year">Год: </string>
+    <string name="descr">Описание: </string>
+    <string name="search">Поиск</string>
 </resources>
